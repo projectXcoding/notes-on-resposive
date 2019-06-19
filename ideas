@@ -1,0 +1,23 @@
+0
+
+First of all, it is hard to say one particular tool that is the best tool to solve all your problems as there are so many aspects to Responsive websites such as
+
+1. Breakpoints
+
+Breakpoints are the point where the site content adjusts according to the browser width and screen resolution
+to provide the optimum viewing experience to the user. This is one of the most overlooked aspects of testing 
+responsive websites, leading to a lot of rendering issues in the page. It is important to test the boundaries 
+of the breakpoints to see when the page adjusts itself.
+
+2. Image Size Optimization
+
+This is the concept where we try to make the image scale according to the viewing size. 
+There are various techniques to do this from the code. We need to do focused testing to see whether the images render
+correctly on different pages.
+
+3. Page load times
+
+Responsive websites tend to have a lot of Javascript, CSS, HTML on the client side due to multiple factors.
+This often has a considerable effect on page load times. A recent study conducted by Google found that 53%
+of users would leave your website if a page takes more than 3 seconds to load. This being the case, it becomes
+really critical to do performance testing on pages before we release it to the customer.
